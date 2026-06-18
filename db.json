@@ -1,0 +1,13 @@
+{
+  "profile": {
+    "id": 1,
+    "name": "Juan Pérez",
+    "balance": 1543200,
+    "currency": "CLP"
+  },
+  "transactions": [
+    { "id": 1, "type": "Transferencia", "amount": -50000, "date": "2026-06-16", "status": "Aprobada" },
+    { "id": 2, "type": "Abono Sueldo", "amount": 1200000, "date": "2026-06-01", "status": "Aprobada" },
+    { "id": 3, "type": "Pago Tarjeta", "amount": -150000, "date": "2026-06-10", "status": "Pendiente" }
+  ]
+}
